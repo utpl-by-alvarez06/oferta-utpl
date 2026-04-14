@@ -21,7 +21,7 @@ Dedicada al estudio riguroso de los recursos naturales, la biología, la agropec
 ## 🌿 Facultad de Ciencias del comportamiento
 Dedicada al estudio de la persona, encontramos carreras en las cuales los estudiantes tienen contacto con la persona y buscan entenderla mejor.
 
-👉 **[Ver carreras de Ciencias Exactas y Naturales](exactas_naturales.md)**
+👉 **[Ver carreras de Ciencias Exactas y Naturales](ciencias_comportamiento.md)**
 
 ---
 
